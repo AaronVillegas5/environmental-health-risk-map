@@ -2,9 +2,12 @@
 
 
 🌐 Live Demo: https://environmental-health-risk-map.vercel.app  
-📊 API: https://your-render-api-link.onrender.com  
+📊 API: [https://your-render-api-link.onrender.com  ](https://environmental-health-risk-map.onrender.com/docs)
 
 An interactive geospatial dashboard for visualizing environmental health risk across Southern California ZIP codes, powered by machine learning and CalEnviroScreen 4.0 data.
+
+![Health Vulnerability Index Breakdown](health_score_index.png)
+![Environmental Health Risk Heatmap](evironmental_heatmap.png)
 
 ## Features
 
