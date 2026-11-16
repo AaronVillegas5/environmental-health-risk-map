@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import Sidebar from './components/Sidebar'
 import MapView from './components/MapView'
 import SplashScreen from './components/SplashScreen'
@@ -176,6 +177,7 @@ export default function App() {
           predictedZips={predictedZips}
         />
       </div>
+      <Analytics />
     </>
   )
 }
